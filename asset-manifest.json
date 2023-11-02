@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CS2024_Atrix/static/css/main.3bfda0f7.css",
+    "main.js": "/CS2024_Atrix/static/js/main.f17e4e63.js",
+    "static/js/787.c3cf5988.chunk.js": "/CS2024_Atrix/static/js/787.c3cf5988.chunk.js",
+    "index.html": "/CS2024_Atrix/index.html",
+    "main.3bfda0f7.css.map": "/CS2024_Atrix/static/css/main.3bfda0f7.css.map",
+    "main.f17e4e63.js.map": "/CS2024_Atrix/static/js/main.f17e4e63.js.map",
+    "787.c3cf5988.chunk.js.map": "/CS2024_Atrix/static/js/787.c3cf5988.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bfda0f7.css",
+    "static/js/main.f17e4e63.js"
+  ]
+}
